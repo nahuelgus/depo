@@ -1,0 +1,6 @@
+body { color:#111; }
+.card-header { font-weight:600; }
+.navbar { background:#fff; }
+.btn-dark { background:#000; border-color:#000; }
+.btn-outline-dark { border-color:#000; color:#000; }
+.btn-outline-dark:hover { background:#000; color:#fff; }
